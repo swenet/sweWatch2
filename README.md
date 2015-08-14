@@ -10,3 +10,9 @@ you need :
 3.Tiny RTC Module or DS1307 core board(a diy pcb board)
 
 4.a battery if you want to wear it
+
+# Libraries
+
+u8glib:https://bintray.com/olikraus/u8glib/Arduino
+
+rtclib:https://github.com/jcw/rtclib
